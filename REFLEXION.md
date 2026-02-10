@@ -8,3 +8,6 @@ No evita errores lógicos o casos especificso no cubiertos por pruebas automatiz
 
 **3. ¿Qué pasaría si un equipo ignora el CI?**  
 Aumentan las regresiones y el tiempo invertido en pruebas manuales y correcciones
+
+***LINK DE REPO***
+[https://github.com/s-aranki/isw2-serverless-demo.git]
